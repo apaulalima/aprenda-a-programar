@@ -1,5 +1,5 @@
-#ITuring Aprendendo a programar
+# ITuring Aprendendo a programar
 
-##Repositório do curso
+## Repositório do curso
 
 Nesse repositório estão todos os arquivos de exercícios realizados no curso.
